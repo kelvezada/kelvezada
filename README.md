@@ -4,9 +4,9 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 > Atuo como desenvolvedor full stack, com foco principal em aplicações utilizando **React**, **TypeScript**, **JavaScript** e **Lua**.
 > Tenho experiência com metodologias ágeis e sou movido por desafios e inovação.
 
-`💻` Stack favorita: React + TypeScript  
+`💻` Stack favorita: **React + TypeScript**
 `❤️` Fascinado por **desenvolvimento web e sistemas inteligentes**
-`📫` Para entrar em contato através do discord: @Kelve
+`📫` Para entrar em contato através do discord: **@Kelve**
 
 <img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezenrique&layout=compact&theme=transparent" alt="My Github Stats">
 
