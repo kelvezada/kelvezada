@@ -9,9 +9,10 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 `❤️` Fascinado por **desenvolvimento web e sistemas inteligentes**  
 `📫` Para entrar em contato através do discord: **@Kelve**
 
----
+## - 🧠 Estatísticas
+
 <details>
-  <summary><strong>📊 Mostrar estatísticas do GitHub</strong></summary>
+  <summary><strong>📊 Visualizar</strong></summary>
   <br />
 
   <table align="center">
@@ -29,8 +30,6 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvezada&theme=radical&hide_border=true" />
   </p>
 </details>
-
----
 
 ## - 🧠 Tecnologias e conhecimentos
 
