@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<h1>🙋‍♂️ Olá, me chamo Kelverson Viana</h1>
 
-<h1>🙋‍♂️ Olá, me chamo <b>Kelverson Viana</b></h1>
 Sou desenvolvedor full stack apaixonado por tecnologia!
 > Atuo como desenvolvedor full stack, com foco principal em aplicações web utilizando **React**, **TypeScript**, **JavaScript** e **Lua**. Tenho experiência com metodologias ágeis e sou movido por desafios e inovação.
 
@@ -9,6 +8,7 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 `💻` Stack favorita: React + TypeScript  
 <br>
 `❤️` Fascinado por **desenvolvimento web e sistemas inteligentes**
+
 
 <img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezenrique&layout=compact&theme=transparent" alt="My Github Stats">
 
