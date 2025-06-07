@@ -14,16 +14,16 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kelvezada&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kelvezada&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvezada&layout=compact&langs_count=8&hide_border=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvezada&layout=compact&langs_count=8&hide_border=true&theme=dark" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvezada&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvezada&theme=dark&hide_border=true" />
 </p>
 
 ---
