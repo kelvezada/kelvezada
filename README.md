@@ -10,6 +10,12 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 
 <img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvezada&layout=compact&theme=transparent" alt="My Github Stats">
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvezada&theme=radical&hide_border=true" />
+</p>
+
+
 ## - 🧠 Tecnologias e conhecimentos
 [![](https://skillicons.dev/icons?i=lua)](https://www.lua.org/docs.html)
 [![](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/getting-started.html)
