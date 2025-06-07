@@ -23,6 +23,7 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 </table>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvezada&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvezada&theme=dark&hide_border=true" />
 </p>
 
