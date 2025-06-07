@@ -21,4 +21,5 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 [![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs)
 [![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
 [![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
+[![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/#/docs/main/stable/general/welcome)
