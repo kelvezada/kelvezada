@@ -8,11 +8,8 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 `💻` Stack favorita: **React + TypeScript**  
 `❤️` Fascinado por **desenvolvimento web e sistemas inteligentes**  
 `📫` Para entrar em contato através do discord: **@Kelve**
-
-## - 🧠 Estatísticas
-
 <details>
-  <summary><strong>📊 Visualizar</strong></summary>
+  <summary>`📊` <strong>Mostrar estatísticas</strong></summary>
   <br />
 
   <table align="center">
