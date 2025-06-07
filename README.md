@@ -1,12 +1,11 @@
-<h1>🙋‍♂️ Olá, me chamo Kelverson Viana</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h1>🙋‍♂️ Olá, seja bem-vindo!</h1>
 
 Sou desenvolvedor full stack apaixonado por tecnologia!
 > Atuo como desenvolvedor full stack, com foco principal em aplicações web utilizando **React**, **TypeScript**, **JavaScript** e **Lua**. Tenho experiência com metodologias ágeis e sou movido por desafios e inovação.
 
-`📚` Engenharia de Software  
-<br>
 `💻` Stack favorita: React + TypeScript  
-<br>
 `❤️` Fascinado por **desenvolvimento web e sistemas inteligentes**
 
 
@@ -28,4 +27,3 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 [![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
 [![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
 [![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/#/docs/main/stable/general/welcome)
-
