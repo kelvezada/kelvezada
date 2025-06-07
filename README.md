@@ -8,7 +8,7 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
 `❤️` Fascinado por **desenvolvimento web e sistemas inteligentes**  
 `📫` Para entrar em contato através do discord: **@Kelve**  
 
-<img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezenrique&layout=compact&theme=transparent" alt="My Github Stats">
+<img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvezada&layout=compact&theme=transparent" alt="My Github Stats">
 
 ## - 🧠 Tecnologias e conhecimentos
 [![](https://skillicons.dev/icons?i=lua)](https://www.lua.org/docs.html)
