@@ -20,6 +20,7 @@ Sou desenvolvedor full stack apaixonado por tecnologia!
   <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a>
   <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /></a>
+  <a href="https://expressjs.com/pt-br/"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
   <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
   <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
