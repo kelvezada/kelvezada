@@ -1,9 +1,10 @@
 <h1>🙋‍♂️ Olá, seja bem-vindo!</h1>
 
-Sou desenvolvedor full stack apaixonado por tecnologia!
+Sou desenvolvedor full stack desde 2020. Meu foco é o back-end, é onde realmente me encontro.
 
-> Atuo como desenvolvedor full stack, com foco principal em aplicações utilizando **React**, **TypeScript**, **JavaScript** e **Lua**.  
-> Tenho experiência com metodologias ágeis e sou movido por desafios e inovação.
+> Tenho experiência sólida construindo soluções completas, com destaque para **APIs, sistemas de autenticação, integrações e automações**. Apesar de atuar como full stack, **sempre preferi estar nos bastidores da aplicação**, lidando com lógica, performance e estrutura de sistemas.
+> Sou fundador da **Core System**, onde ofereço soluções sob medida para servidores FiveM, com **foco em performance, segurança e escalabilidade**. Trabalho com tecnologias como **TypeScript, JavaScript, Lua, React e banco de dados como MySQL e PostgreSQL**.
+> Movido por desafios, gosto de construir sistemas inteligentes, bem estruturados e que realmente resolvam problemas. Tenho familiaridade com **metodologias ágeis**, versionamento com Git e deploy automatizado.
 
 `💻` Stack favorita: **React + TypeScript**  
 `❤️` Fascinado por **desenvolvimento web e sistemas inteligentes**  
