@@ -35,11 +35,11 @@ Programo desde **2013** e atuo como **full stack desde 2020**, mas é no **back-
 <table>
   <tr>
     <td><b>Linguagens</b></td>
-    <td><img src="assets/stack-linguagens.svg" height="40" alt="TypeScript, JavaScript, Lua, C++, HTML, CSS, Visual Basic" /></td>
+    <td><img src="assets/stack-linguagens.svg" height="40" alt="TypeScript, JavaScript, Python, Lua, C++, Visual Basic" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" height="40" alt="React, Next.js, Vite, Tailwind CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" height="40" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
